@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BackendDeveloperTest\bin\Debug\BackendDeveloperTest.exe.config
+C:\Users\User\source\repos\BackendDeveloperTest\bin\Debug\BackendDeveloperTest.exe
+C:\Users\User\source\repos\BackendDeveloperTest\bin\Debug\BackendDeveloperTest.pdb
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.Form1.resources
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.Properties.Resources.resources
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.exe
+C:\Users\User\source\repos\BackendDeveloperTest\obj\Debug\BackendDeveloperTest.pdb
